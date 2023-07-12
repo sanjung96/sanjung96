@@ -2,9 +2,7 @@
 
 <br>
 
-I started my career as a tax accountant in the personal wealth sector handling tax matters for high net worth individuals. 
-I transferred internally to the Business Transformation team and worked on projects to automate certain processes for the tax department.
-In my most recent job, I worked as a cybersecurity consultant and worked on projects such as creating cyber incident response plans and implementing procedures for identity & access management. 
+I started my career as a tax accountant in the personal wealth sector handling tax matters for high net worth individuals and then I transferred internally to the Business Transformation team and worked on projects to automate certain processes for the tax department. In my most recent job, I worked as a cybersecurity consultant and worked on projects such as creating cyber incident response plans and implementing procedures for identity & access management. 
 
 
 While these roles have taught me valuable skills such as analytical thinking, problem-solving, and the ability to work in teams, I wanted to pursue a role that would channel more of my creative side.
