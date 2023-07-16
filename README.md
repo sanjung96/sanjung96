@@ -14,5 +14,5 @@ I am really looking forward to becoming a fullstack software developer where I c
 </br> 
 
 ✨ In my Private Repositories, I have 2 Tech Elevator capstone projects to showcase my work. I would love to share them with you! ✨</br>
-* Vending Maching Application: Object-Oriented Programming Principles, Java, and file I/O  </br>
+* Vending Machine Application: Object-Oriented Programming Principles, Java, and file I/O  </br>
 * Payment Service Application: Spring Boot RESTful API, PostgreSQL database, and Postman </br>
